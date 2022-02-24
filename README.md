@@ -1,2 +1,20 @@
 # OceanSciences2022
-Repository containing the tutorial notebook run during the Townhall Sesion
+Repository containing the tutorial notebook run during the Townhall Sesion titled
+
+## Open Science Analysis of Petabyte Scale Ocean and Ocean-Atmosphere Models with Open Source Cloud Tools
+
+
+
+
+
+
+
+Howto:
+
+The notebooks need to be run within Sciserver to access the model data and correct (conda) environment. Furthermore, within Sciserver, the notebooks 
+only run within a container created with the `Oceanography 2.3` Compute image, along with access to either the `Poseidon` (for llc4320) or `Ocean Circulation`
+(for ECCO) data volumes.
+
+
+
+
