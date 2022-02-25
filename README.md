@@ -26,3 +26,6 @@ To run the notebook : </br>
   cd /home/idies/workspace/Temporary/your_username/scratch/
   ```
 2. You should have the notebook `LLC_90_Sciserver_tutorial.ipynb` along with the folders `/img` and `/test_data` to successfully reproduce the Ocean Sciences tutorial. If you are comfortable using `git` you can clone this repo into your `/scratch` folder. If you have no prior experience with `git`, simply download this repo and upload the folders into your jupyter lab environment on SciServer. The jupyter lab interface gives you the option to upload files and folders from your local system. 
+
+## LLC4320 Tutorial
+1. Follow the same steps as for the LLC90 tutorial, except make sure that when you create your container, you additionally select the `Poseidon` data volume. 
