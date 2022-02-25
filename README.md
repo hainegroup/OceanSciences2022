@@ -11,6 +11,11 @@ Repository containing the tutorial notebook run during the Townhall Sesion
 
 How to:
 
+You can download the contents of this repository into any machine with internet access and `git` installed, by executing the following on the command line:
+
+`git clone https://github.com/hainegroup/OceanSciences2022.git`
+
+
 The notebooks need to be run within [Sciserver](https://www.sciserver.org/) to access the model data and correct (conda) environment. Furthermore, within Sciserver, the notebooks 
 only run within a container created with the `Oceanography 2.3` Compute image, along with access to either the `Poseidon` (for llc4320) or `Ocean Circulation`
 (for ECCO) data volumes.
