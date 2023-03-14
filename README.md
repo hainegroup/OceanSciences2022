@@ -32,3 +32,5 @@ To run the notebook : </br>
 
 ## LLC4320 Tutorial
 1. Follow the same steps as for the LLC90 tutorial, except make sure that when you create your container, you additionally select the `Poseidon` data volume. 
+
+## March '23: The notebooks in this repo are no longer supported with the latest OceanSpy version. To see working, supported version of these notebooks visit: https://github.com/hainegroup/Poseidon-share
